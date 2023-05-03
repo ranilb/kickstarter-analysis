@@ -3,6 +3,9 @@
 ## Overview of Project
 Analyzing crowdfunding data to determine limitations and challenges of a successful campaign. 
 
+### Tools
+MS Excel and VBA
+
 ### Purpose
 Louise, a playwriter, has started a fundraising campaign and now she wants to know “how different campaigns fared in relation to their launch dates and their funding goals." Therefore, in this work, we search for the connections between successful campaigns and their launch dates with funding goals.  
 
